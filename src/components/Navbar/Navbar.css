@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Ensures logo is on left & button on right */
+    width: 100%; /* Full width */
+    position: relative;
+}
+
+.navbar img {
+    width: 120px; /* Adjust logo size */
+}
+
+
