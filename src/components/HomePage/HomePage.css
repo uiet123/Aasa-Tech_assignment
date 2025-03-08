@@ -237,7 +237,7 @@
     align-items: center;
     border: none;
     margin-bottom: 10px;
-    width: 70%;
+    width: 80%;
     border-radius: 50px;
     cursor: pointer;
   }
@@ -245,7 +245,7 @@
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 600;
     color: white;
     background: linear-gradient(to right, #2c3ec7, #ff00c7);

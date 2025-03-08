@@ -140,7 +140,7 @@
     display: flex;
     justify-content: center;
     margin: 20px auto;
-    font-size: 18px;
+    font-size: 1px;
     font-weight: 600;
     color: white;
     background: linear-gradient(to right, #2c3ec7, #ff00c7);
@@ -210,4 +210,20 @@
         color: #333;
         margin-top: 10px;
       }
+
+      .cta-button {
+        display: flex;
+        justify-content: center;
+        margin: 20px auto;
+        font-size: 12px;
+        font-weight: 600;
+        color: white;
+        background: linear-gradient(to right, #2c3ec7, #ff00c7);
+        padding: 14px 14px;
+        align-items: center;
+        border: none;
+        width: 45%;
+        border-radius: 10px;
+        cursor: pointer;
+    }
 }

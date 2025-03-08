@@ -73,7 +73,7 @@
     display: flex;
     justify-content: center;
     margin: 20px auto;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     color: white;
     background: linear-gradient(to right, #2c3ec7, #ff00c7);
@@ -85,3 +85,9 @@
     cursor: pointer;
   }
   
+  @media (max-width:450px) {
+    .cta-button{
+        font-size: 12px;
+        font-weight: 500;
+    }
+  }
